@@ -1,3 +1,5 @@
+
+# www.patika.dev
 # 1.Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 
 ### 1) 16 başa geçer [16,22,27,2,18,6]
@@ -15,7 +17,7 @@
 ### Worst Case: O(N^2) = O(6^2) = O(36)
 ### Best Case: O(N) = O(6)
 
-#4. Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
+# 4. Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 
 ### 18 sayısı Avarage Case kapsamına girer.
 
